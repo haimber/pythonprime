@@ -1,3 +1,3 @@
-# pythonprimeberman.uri@gmail.com
+# pythonprime
 
 calculate prime faster than ever
